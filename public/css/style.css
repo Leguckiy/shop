@@ -1,0 +1,39 @@
+.image-index {
+    /* width:50px; */
+    height:50px;
+}
+
+.image-show, .image-edit {
+    /* width:200px; */
+    height:200px;
+}
+
+.image-wraper {
+    text-align: center;
+}
+
+.menu {
+    background-color:rgb(58, 58, 148);
+}
+
+.menu h3 {
+    text-align: center;
+}
+
+.content {
+    background-color:beige;
+}
+
+.menu p {
+    color:darkgray;
+    margin: 20px 50px;
+    font-size: 22px;
+}
+
+.menu a {
+    color:white;
+}
+
+.menu li {
+    list-style-type: none;
+}
